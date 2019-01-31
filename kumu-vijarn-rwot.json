@@ -8671,13 +8671,12 @@
     {
       "_id": "map-mZnMrrX4",
       "name": "RWOT",
-      "description": "**TEST 2 - Rebooting the Web of Trust design workshop.**\n\n\nThis facilitated design workshop (\"DesignShop\"), hosted by Christopher Allen, is focused on the creation of the next generation of decentralized web-of-trust based identity systems. The goal of this event is to generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future, followed by a hackathon early in the new year to implement those ideas.\n\nPlease see the <a href=\"http://www.weboftrust.info\"> Web of Trust Info website </a> for more information about our community, including upcoming events.",
+      "description": "**TEST 3 - Rebooting the Web of Trust design workshop.**\n\n\nThis facilitated design workshop (\"DesignShop\"), hosted by Christopher Allen, is focused on the creation of the next generation of decentralized web-of-trust based identity systems. The goal of this event is to generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future, followed by a hackathon early in the new year to implement those ideas.\n\nPlease see the <a href=\"http://www.weboftrust.info\"> Web of Trust Info website </a> for more information about our community, including upcoming events.",
       "scale": 1,
       "center": {
         "x": 0,
         "y": 0
       },
-      "src": "https://docs.google.com/spreadsheets/d/1QW_xFKmlug0BS82lHSHzXJkKIarC_1IKxRhMsnrApeY/edit#gid=30390684",
       "defaultPerspective": "pers-5nxXbVR1",
       "defaultElementBehavior": "floating",
       "defaultConnectionDirection": "undirected"
