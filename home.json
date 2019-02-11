@@ -1,4 +1,6 @@
 {
+  "defaultMap": "map-NCdWt3g5",
+  "defaultPerspective": null,
   "elements": [
     {
       "_id": "elem-5WlqpVzy",
@@ -10,8 +12,8 @@
     {
       "_id": "elem-6bNGdsvJ",
       "attributes": {
-        "label": "React SSI-UX SDK",
-        "element type": "SDK"
+        "label": "React SSI-UX SJK",
+        "element type": "SJK"
       }
     },
     {
@@ -23,8 +25,8 @@
     {
       "_id": "elem-7q8WQXGm",
       "attributes": {
-        "label": "Veres.One SDK",
-        "element type": "SDK"
+        "label": "Veres.One SJK",
+        "element type": "SJK"
       }
     },
     {
@@ -65,15 +67,15 @@
     {
       "_id": "elem-MtDdMkLE",
       "attributes": {
-        "label": "DIF SDK",
-        "element type": "SDK"
+        "label": "DIF SJK",
+        "element type": "SJK"
       }
     },
     {
       "_id": "elem-WCykHSf7",
       "attributes": {
-        "label": "Hyperledger Ursa SDK",
-        "element type": "SDK"
+        "label": "Hyperledger Ursa SJK",
+        "element type": "SJK"
       }
     },
     {
@@ -86,8 +88,8 @@
     {
       "_id": "elem-b6kjdoiP",
       "attributes": {
-        "label": "Hyperledger <VON> SDK",
-        "element type": "SDK"
+        "label": "Hyperledger <VON> SJK",
+        "element type": "SJK"
       }
     },
     {
@@ -107,8 +109,8 @@
     {
       "_id": "elem-pE4YBCTu",
       "attributes": {
-        "label": "Sovrin SDK",
-        "element type": "SDK"
+        "label": "Sovrin SJK",
+        "element type": "SJK"
       }
     },
     {
@@ -135,8 +137,8 @@
     {
       "_id": "elem-tzDr2NXr",
       "attributes": {
-        "label": "Hyperledger Indy SDK",
-        "element type": "SDK"
+        "label": "Hyperledger Indy SJK",
+        "element type": "SJK"
       }
     },
     {
@@ -259,5 +261,12 @@
       "to": "elem-zUBMtQqH"
     }
   ],
-  "loops": []
+  "loops": [],
+  "perspectives": [
+    {
+      "_id": "pers-OzDAA6LC",
+      "name": "Welcome to Korsimoro Identity Services",
+      "style": "@settings {\n  template: causal-loop;\n}\n\n"
+    }
+  ]
 }
