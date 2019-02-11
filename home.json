@@ -261,12 +261,5 @@
       "to": "elem-zUBMtQqH"
     }
   ],
-  "loops": [],
-  "perspectives": [
-    {
-      "_id": "pers-OzDAA6LC",
-      "name": "Welcome to Korsimoro Identity Services",
-      "style": "@settings {\n  template: causal-loop;\n}\n\n"
-    }
-  ]
+  "loops": []
 }
